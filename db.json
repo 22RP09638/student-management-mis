@@ -8,6 +8,15 @@
       "level": 3,
       "email": "blaiseniyonsenga@gmail.com",
       "status": "active"
+    },
+    {
+      "id": "2138",
+      "student_id": "22RP1212",
+      "full_name": "NIYONSENGA",
+      "department": "EEE",
+      "level": 4,
+      "email": "blaiseniyonsenga@gmail.com",
+      "status": "expelled"
     }
   ]
 }
