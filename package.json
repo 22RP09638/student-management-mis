@@ -1,16 +1,8 @@
 {
-  "name": "22rp09638",
+  "name": "22RP09638",
   "version": "1.0.0",
-  "description": "A simple **Web-Based Student Management System** for managing student records using AJAX, JSON, and XML technologies. Built as part of a deployment and data integration project.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
+    "start": "node index.js"
   }
 }
