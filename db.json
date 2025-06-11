@@ -1,3 +1,13 @@
 {
-  "students": []
+  "students": [
+    {
+      "id": "e508",
+      "student_id": "22RP09638",
+      "full_name": "NIYONSENGA",
+      "department": "ICT",
+      "level": 3,
+      "email": "blaiseniyonsenga@gmail.com",
+      "status": "active"
+    }
+  ]
 }
